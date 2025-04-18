@@ -98,7 +98,7 @@ if __name__ == '__main__':
     # Parse command line arguments
     parser = argparse.ArgumentParser(description='Weaviate Vector Search Server')
     parser.add_argument('--host', default='0.0.0.0', help='Server host (default: 0.0.0.0)')
-    parser.add_argument('--port', type=int, default=5000, help='Server port (default: 5000)')
+    parser.add_argument('--port', type=int, default=8000, help='Server port (default: 5000)')
     parser.add_argument('--collection', default='space', help='Weaviate collection name')
     
     args = parser.parse_args()
