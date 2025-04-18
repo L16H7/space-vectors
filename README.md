@@ -1,6 +1,6 @@
 # Space Vectors
 
-Vibe coding at Github office because I need to do something for 2 slices and 1 coke. Everything takes a little bit over 1 hour. Thanks Claude.ai
+Vibe coding at Github office because I need to do something for 2 slices of pizza and 1 coke. Everything takes a little bit over 1 hour. Thanks Claude.ai
 
 ### Dataset
 https://www.kaggle.com/datasets/abhikalpsrivastava15/space-images-category
